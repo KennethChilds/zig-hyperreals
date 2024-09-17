@@ -22,7 +22,7 @@ A hyperreal number is represented as `a + bε`, where:
 
 For a visual representation of how hyperreal numbers extend the real number line, see the image below:
 
-![Hyperreal Number Line](misc/image.png)
+![Hyperreal Number Line](misc/hyperreal_numberline.png)
 
 ### Properties
 
@@ -55,3 +55,7 @@ git clone https://github.com/KennethChilds/zig-hyperreals.git
 cd zig-hyperreals
 zig run src/main.zig
 ```
+
+## Output
+
+![Output of `zig run src/main.zig`](misc/output.png)
