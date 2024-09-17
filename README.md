@@ -51,5 +51,7 @@ This is a simplified representation of hyperreal numbers. In practice, hyperreal
 To run the project, use the following command:
 
 ```
+git clone https://github.com/KennethChilds/zig-hyperreals.git
+cd zig-hyperreals
 zig run src/main.zig
 ```
