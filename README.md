@@ -1,4 +1,4 @@
-# Hyperreal Number Implementation in Zig
+# Infinitesimal Hyperreal Number Implementation in Zig
 
 ## Project Summary
 
